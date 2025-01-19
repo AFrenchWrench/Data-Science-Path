@@ -1,0 +1,11 @@
+name,ingredients,diet,prep_time,cook_time,flavor_profile,course,state,region
+Shrikhand,"Curd, sugar, saffron, cardamom",vegetarian,10.0,720.0,sweet,dessert,Maharashtra,West
+Pindi chana,"Fennel, tea bags, tomato, kasuri methi, cinnamon",vegetarian,500.0,120.0,spicy,main course,Punjab,North
+Misti doi,"Milk, jaggery",vegetarian,480.0,30.0,sweet,dessert,West Bengal,East
+Poornalu,"Chana dal, jaggery",vegetarian,240.0,60.0,sweet,dessert,Andhra Pradesh,South
+Chak Hao Kheer,"Rice, milk, sugar, cardamom",vegetarian,240.0,45.0,sweet,dessert,Manipur,North East
+Tandoori Chicken,"Greek yogurt, garam masala, kasuri methi, marinade, mustard oil",non vegetarian,240.0,30.0,spicy,main course,Punjab,North
+Tandoori Fish Tikka,"Chickpea flour, biryani masala powder, yogurt, fish fillets, green bell pepper",non vegetarian,240.0,30.0,spicy,starter,Punjab,North
+Obbattu holige,"Maida flour, turmeric, coconut, chickpeas, jaggery, ghee, cardamom",vegetarian,180.0,60.0,sweet,main course,Karnataka,South
+Ras malai,"Chhena, reduced milk, pistachio",vegetarian,180.0,60.0,sweet,dessert,West Bengal,East
+Attu,"Whole wheat flour, arhar dal, ginger, kala jeera, green chilli",vegetarian,150.0,25.0,spicy,snack,Andhra Pradesh,South
