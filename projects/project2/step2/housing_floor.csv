@@ -1,0 +1,101 @@
+,Lng,Lat,tradeTime,DOM,totalPrice,square,livingRoom,drawingRoom,kitchen,bathRoom,floor,constructionTime,renovationCondition,buildingStructure,ladderRatio,elevator,subway,district
+0,116.475489,40.01952,2016-08-09,1464.0,415.0,131.0,2,1,1,1,26,2005,Simplicity,steel-concrete composite,0.217,has elevator,has subway,7
+1,116.453917,39.881534,2016-07-28,903.0,575.0,132.38,2,2,1,2,22,2004,hardcover,steel-concrete composite,0.667,has elevator,no subway,7
+2,116.561978,39.877145,2016-12-11,1271.0,1030.0,198.0,3,2,1,3,4,2005,Simplicity,steel-concrete composite,0.5,has elevator,no subway,7
+3,116.43801,40.076114,2016-09-30,965.0,297.5,134.0,3,1,1,1,21,2008,other,steel-concrete composite,0.273,has elevator,no subway,6
+4,116.428392,39.886229,2016-08-28,927.0,392.0,81.0,2,1,1,1,6,1960,rough,mixed,0.3329999999999999,no elevator,has subway,1
+5,116.46628,39.991363,2016-07-22,861.0,275.6,53.0,1,0,1,1,8,2005,Simplicity,steel-concrete composite,0.3329999999999999,has elevator,no subway,7
+6,116.482586,39.891991,2016-07-14,851.0,275.0,73.0,2,1,1,1,6,1997,hardcover,mixed,0.5,no elevator,no subway,7
+7,116.453917,39.881534,2016-09-07,904.0,800.0,161.55,3,2,1,2,22,2004,hardcover,steel-concrete composite,0.667,has elevator,no subway,7
+8,116.555729,40.162058,2016-09-04,873.0,134.0,48.0,1,0,1,1,10,2009,other,mixed,0.3329999999999999,no elevator,no subway,13
+9,116.453086,39.898397,2016-09-05,865.0,380.0,68.0,1,0,0,0,23,2009,hardcover,steel-concrete composite,0.308,has elevator,has subway,1
+10,116.52948899999998,39.890906,2016-08-24,827.0,840.0,266.0,4,2,1,3,4,2006,Simplicity,steel-concrete composite,0.2,no elevator,no subway,7
+11,116.555729,40.162058,2016-08-03,773.0,126.0,48.0,1,1,1,1,11,2009,Simplicity,mixed,0.3329999999999999,no elevator,no subway,13
+12,116.47617,39.844869,2016-08-25,793.0,948.0,238.0,4,2,1,4,3,2004,hardcover,steel-concrete composite,0.091,no elevator,no subway,7
+13,116.399018,39.978141,2016-08-17,784.0,896.0,97.7,3,1,1,1,6,1991,Simplicity,mixed,0.3329999999999999,no elevator,has subway,10
+14,116.296286,39.870107,2016-06-17,706.0,285.0,80.13,1,1,1,1,24,2001,hardcover,steel-concrete composite,0.222,has elevator,has subway,2
+15,116.32922,39.892447,2016-09-20,800.0,360.0,59.4,2,1,1,1,26,1990,Simplicity,steel-concrete composite,0.25,has elevator,has subway,2
+16,116.405549,39.975629,2016-07-22,739.0,700.0,178.96,4,1,1,1,23,1997,Simplicity,steel-concrete composite,0.3329999999999999,has elevator,has subway,7
+17,116.284755,39.93453,2016-09-17,790.0,212.0,64.28,1,0,1,1,19,2009,Simplicity,steel-concrete composite,0.111,has elevator,has subway,8
+18,116.603852,39.893276,2016-06-20,691.0,336.0,111.3,2,1,1,1,6,2008,hardcover,steel-concrete composite,0.1669999999999999,has elevator,no subway,7
+19,116.284755,39.93453,2016-08-23,747.0,174.6,52.0,1,0,1,1,19,2009,Simplicity,steel-concrete composite,0.111,has elevator,has subway,8
+20,116.507351,39.934957,2016-07-15,690.0,1950.0,308.41,5,2,1,4,18,2011,hardcover,steel-concrete composite,1.0,has elevator,has subway,7
+21,116.448302,39.960966,2016-07-28,697.0,176.0,60.69,1,1,1,1,25,2008,hardcover,steel-concrete composite,0.364,has elevator,no subway,7
+22,116.432142,39.902354,2016-07-26,681.0,520.0,59.65,1,1,1,1,12,2005,hardcover,steel-concrete composite,0.5,has elevator,has subway,1
+23,116.453712,39.940847,2016-12-04,789.0,1580.0,210.67,4,2,1,3,6,2000,hardcover,steel-concrete composite,0.5,has elevator,no subway,7
+24,116.486595,39.917578000000006,2016-07-25,656.0,1150.0,218.35,4,2,1,2,14,2005,hardcover,steel-concrete composite,0.3329999999999999,has elevator,has subway,7
+25,116.475515,40.008231,2016-06-29,622.0,213.0,58.49,1,0,1,0,30,2004,Simplicity,steel-concrete composite,0.429,has elevator,has subway,7
+26,116.37301399999998,39.859478,2016-06-27,598.0,160.0,53.0,1,1,1,1,18,1998,Simplicity,steel-concrete composite,0.25,has elevator,has subway,2
+27,116.284755,39.93453,2016-10-30,715.0,210.0,52.0,1,0,1,1,19,2009,Simplicity,steel-concrete composite,0.111,has elevator,has subway,8
+28,116.450729,39.977923,2016-08-15,630.0,1750.0,205.0,3,2,1,2,27,2010,rough,steel-concrete composite,0.667,has elevator,has subway,7
+29,116.369475,40.069842,2016-07-12,580.0,630.0,159.99,3,2,1,2,5,2004,hardcover,mixed,0.5,no elevator,no subway,8
+30,116.480923,39.900942,2016-09-20,640.0,845.0,248.62,2,2,1,2,14,2004,hardcover,steel-concrete composite,1.0,has elevator,has subway,7
+31,116.434144,39.892211,2016-08-08,594.0,723.0,110.54,3,1,1,1,6,1996,hardcover,mixed,0.3329999999999999,no elevator,has subway,1
+32,116.376709,39.867222,2016-06-19,540.0,240.0,56.92,2,1,1,1,18,1996,Simplicity,steel-concrete composite,0.25,has elevator,has subway,2
+33,116.485296,39.991732,2016-09-27,628.0,590.0,114.15,2,2,1,1,28,2001,other,steel-concrete composite,0.375,has elevator,has subway,7
+34,116.416572,40.063191,2016-09-08,603.0,354.5,69.96,3,1,1,2,11,2010,other,steel-concrete composite,0.2,has elevator,has subway,6
+35,116.257104,39.873962,2016-09-28,621.0,210.0,47.26,1,1,1,1,9,2011,Simplicity,steel-concrete composite,0.098,has elevator,has subway,2
+36,116.513848,39.875068,2016-07-06,535.0,218.0,74.11,2,1,1,1,7,1993,Simplicity,concrete,0.25,no elevator,has subway,7
+37,116.257104,39.873962,2016-08-21,573.0,140.0,55.0,1,0,1,1,9,2011,hardcover,steel-concrete composite,0.098,has elevator,has subway,2
+38,116.567579,40.076173,2016-08-30,580.0,340.0,141.5,3,2,1,2,12,2004,hardcover,mixed,0.25,has elevator,no subway,13
+39,116.493655,39.905367,2016-08-26,569.0,540.0,91.7,2,2,1,1,27,2006,hardcover,steel-concrete composite,0.429,has elevator,has subway,7
+40,116.297022,39.788637,2016-06-25,507.0,110.0,40.45,1,1,1,1,7,2002,Simplicity,mixed,0.5,no elevator,no subway,4
+42,116.4388,40.054941,2016-07-28,516.0,340.0,53.0,1,1,1,1,17,2011,hardcover,steel-concrete composite,0.174,has elevator,has subway,7
+43,116.190634,39.768886,2016-08-05,524.0,245.0,80.0,2,1,1,1,9,2012,hardcover,steel-concrete composite,0.5,has elevator,has subway,5
+44,116.330345,39.984336,2016-08-14,533.0,610.0,58.9,2,1,1,1,6,1989,hardcover,mixed,0.3329999999999999,no elevator,has subway,8
+45,116.254212,40.216336,2016-07-22,507.0,224.5,118.0,2,2,1,2,6,1998,Simplicity,mixed,0.5,no elevator,no subway,6
+46,116.60292,39.909042,2016-08-30,540.0,435.0,87.87,2,1,1,1,18,2011,other,steel-concrete composite,0.667,has elevator,no subway,7
+47,116.324898,39.891441,2016-09-05,544.0,410.0,77.1,3,1,1,1,24,1991,Simplicity,steel-concrete composite,0.25,has elevator,has subway,2
+48,116.232119,40.223852,2016-09-04,539.0,240.0,83.38,1,1,1,1,15,2009,Simplicity,steel-concrete composite,0.143,has elevator,has subway,6
+49,116.683117,40.127185,2016-08-26,530.0,470.0,142.95,3,2,1,2,5,2004,hardcover,mixed,0.5,has elevator,no subway,13
+50,116.45831,39.923422,2016-08-24,520.0,355.0,61.55,1,0,1,1,29,2008,hardcover,steel-concrete composite,0.231,has elevator,has subway,7
+51,116.422479,40.06389,2016-07-31,494.0,190.0,60.82,1,1,1,1,19,2004,Simplicity,steel-concrete composite,0.15,has elevator,has subway,6
+52,116.254212,40.216336,2016-08-31,526.0,321.0,156.41,3,1,1,2,5,2001,hardcover,steel-concrete composite,0.25,no elevator,no subway,6
+53,116.318694,40.087485,2016-07-04,467.0,350.0,125.66,3,1,1,2,9,2008,Simplicity,steel-concrete composite,0.5,has elevator,no subway,6
+54,116.164506,39.731851,2016-08-12,503.0,198.0,96.0,3,1,1,1,6,2004,Simplicity,mixed,0.5,no elevator,has subway,5
+55,116.665923,40.186753,2016-08-31,523.0,500.0,113.26,3,2,1,2,11,2012,hardcover,steel-concrete composite,0.3329999999999999,has elevator,no subway,13
+56,116.314388,39.972347,2016-08-19,508.0,655.0,151.8,2,1,1,1,22,1998,Simplicity,steel-concrete composite,0.286,has elevator,has subway,8
+57,116.378537,39.879671,2016-12-09,618.0,1135.0,183.16,4,1,1,2,18,2003,other,steel-concrete composite,0.286,has elevator,has subway,10
+58,116.284755,39.93453,2017-03-22,721.0,280.0,41.5,1,0,1,1,19,2009,hardcover,steel-concrete composite,0.111,has elevator,has subway,8
+59,116.413046,40.056407,2016-07-15,470.0,346.0,98.88,4,1,1,2,5,1998,Simplicity,concrete,0.5,no elevator,no subway,6
+60,116.559275,40.113935,2017-01-22,659.0,530.0,203.07,6,2,1,2,6,1998,hardcover,steel-concrete composite,0.5,no elevator,no subway,13
+61,116.474383,39.902184000000005,2016-06-29,451.0,406.0,63.86,1,1,1,1,16,2007,hardcover,steel-concrete composite,0.25,has elevator,has subway,7
+62,116.384103,39.972885,2016-08-15,498.0,642.0,71.6,2,1,1,1,13,1993,other,mixed,0.222,has elevator,no subway,10
+63,116.497474,39.810115,2016-07-07,459.0,165.0,55.48,1,1,1,1,24,2009,hardcover,steel-concrete composite,0.25,has elevator,has subway,3
+64,116.403304,39.891691,2016-08-31,511.0,400.0,59.81,1,1,1,1,9,2002,hardcover,steel-concrete composite,0.1669999999999999,has elevator,has subway,10
+65,116.386555,40.0865,2016-07-28,474.0,200.0,48.0,1,0,1,1,9,2009,hardcover,steel-concrete composite,0.3329999999999999,has elevator,no subway,6
+66,116.364028,39.870465,2016-06-27,442.0,200.0,41.4,1,1,1,1,6,1990,Simplicity,mixed,0.3329999999999999,no elevator,no subway,2
+67,116.461949,40.003018,2016-06-24,438.0,845.0,193.05,4,2,1,3,17,2003,hardcover,steel-concrete composite,0.5,has elevator,has subway,7
+68,116.483319,39.915337,2016-07-23,466.0,300.0,68.48,3,1,1,1,14,1994,hardcover,steel-concrete composite,0.143,has elevator,has subway,7
+69,116.516087,39.923147,2016-07-27,469.0,225.0,55.0,1,0,1,1,9,2005,hardcover,steel-concrete composite,0.25,has elevator,no subway,7
+70,116.555729,40.162058,2016-08-10,481.0,395.0,88.0,3,4,1,3,6,2009,Simplicity,concrete,0.5,no elevator,no subway,13
+71,116.444356,39.932936,2016-12-29,622.0,392.5,46.96,1,0,1,1,17,2003,hardcover,steel-concrete composite,0.4,has elevator,has subway,7
+72,116.517555,39.872965,2016-07-17,456.0,200.0,59.87,2,1,1,1,6,1984,hardcover,mixed,0.3329999999999999,no elevator,no subway,7
+73,116.472165,39.903144,2016-08-13,482.0,300.0,59.89,2,1,1,1,6,1992,hardcover,mixed,0.3329999999999999,no elevator,has subway,7
+74,116.471754,40.02946,2016-09-12,513.0,510.0,67.7,1,2,1,1,28,2009,Simplicity,steel-concrete composite,0.3329999999999999,has elevator,has subway,7
+75,116.249496,40.221791,2016-08-08,477.0,102.0,42.0,1,1,1,1,6,1989,Simplicity,mixed,0.3329999999999999,no elevator,has subway,6
+76,116.309431,39.842691,2016-07-06,444.0,288.0,69.02,1,1,1,1,26,2006,Simplicity,steel-concrete composite,0.3,has elevator,has subway,2
+77,116.330357,39.692063,2016-09-07,506.0,468.0,212.0,4,2,1,1,15,2014,rough,steel-concrete composite,0.5,has elevator,has subway,4
+78,116.43164,39.904426,2016-07-30,466.0,450.0,75.3,2,1,1,1,16,2006,rough,steel-concrete composite,0.25,has elevator,has subway,1
+79,116.400717,40.088094,2016-08-08,472.0,873.0,247.39,4,2,1,3,2,2000,hardcover,concrete,1.0,no elevator,no subway,6
+80,116.4388,40.054941,2016-07-21,454.0,475.0,67.49,2,1,1,2,17,2012,hardcover,steel-concrete composite,0.174,has elevator,has subway,7
+81,116.457699,39.944441,2016-06-20,421.0,240.0,60.0,1,0,1,1,5,2010,hardcover,steel-concrete composite,0.128,has elevator,has subway,7
+83,116.425063,40.044097,2016-12-18,598.0,202.0,51.0,1,1,1,1,13,2011,Simplicity,steel-concrete composite,0.182,has elevator,has subway,7
+84,116.334817,39.884391,2016-07-03,430.0,240.0,34.0,1,1,1,2,18,2009,hardcover,steel-concrete composite,0.222,has elevator,no subway,10
+85,116.22946,40.228274,2016-09-21,509.0,265.0,86.7,2,1,1,1,6,1996,hardcover,concrete,0.3329999999999999,no elevator,has subway,6
+86,116.509143,39.925387,2016-07-19,443.0,355.0,86.78,2,2,1,1,33,2011,Simplicity,steel-concrete composite,0.3,has elevator,has subway,7
+87,116.474014,39.913424,2016-10-29,545.0,389.0,61.0,2,1,1,1,14,1985,Simplicity,steel-concrete composite,0.125,has elevator,has subway,7
+88,116.606151,40.051276,2017-01-22,629.0,300.0,103.0,3,1,1,1,6,1998,hardcover,mixed,0.5,no elevator,no subway,7
+89,116.399693,39.972072,2016-09-11,495.0,509.0,75.21,2,1,1,1,16,1992,hardcover,steel-concrete composite,0.158,has elevator,has subway,7
+90,116.560389,40.094933000000005,2016-09-04,487.0,340.0,136.0,3,2,1,2,6,2000,Simplicity,mixed,0.5,no elevator,has subway,13
+91,116.368804,39.873549,2016-07-13,433.0,307.0,60.0,2,1,1,1,6,1989,Simplicity,mixed,0.5,no elevator,no subway,2
+92,116.154608,39.726495,2016-07-27,446.0,199.5,90.0,2,1,1,1,15,2010,rough,steel-concrete composite,0.25,has elevator,no subway,5
+93,116.67973700000002,40.219508000000005,2016-10-09,519.0,798.0,300.0,4,2,1,2,4,2013,other,steel-concrete composite,0.5,has elevator,no subway,13
+94,116.16608,39.771077000000005,2016-09-30,511.0,210.5,65.0,1,1,1,1,11,2011,hardcover,steel-concrete composite,0.1669999999999999,has elevator,no subway,5
+95,116.372222,39.880938,2016-09-15,495.0,900.0,160.0,5,2,1,2,6,1999,other,mixed,0.5,no elevator,has subway,10
+96,116.422211,40.011387,2016-07-24,442.0,298.0,85.0,1,1,1,1,22,2009,other,steel-concrete composite,0.19,has elevator,has subway,7
+97,116.60503500000002,40.051164,2016-09-19,499.0,230.0,89.0,3,1,1,1,6,1992,other,concrete,0.5,no elevator,no subway,7
+98,116.317831,40.039,2016-09-12,492.0,1388.0,258.0,5,2,1,3,6,1998,hardcover,mixed,0.5,no elevator,no subway,8
+99,116.259318,40.217911,2016-07-08,424.0,257.0,110.0,2,1,1,1,6,1996,other,mixed,0.5,no elevator,no subway,6
+100,116.227892,39.780755,2016-09-26,503.0,296.0,107.0,3,1,1,1,6,2003,Simplicity,mixed,0.5,no elevator,no subway,5
+102,116.238792,39.852889000000005,2016-07-11,423.0,208.0,66.48,1,1,1,1,6,2004,other,mixed,0.5,no elevator,no subway,2
